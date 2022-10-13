@@ -1,7 +1,7 @@
 <h1> Welcome this is/was my first React Project I created </h1>
 
 
-# Getting Started with Create React App
+<h2># Getting Started with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
